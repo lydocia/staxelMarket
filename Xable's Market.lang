@@ -1,0 +1,14 @@
+language.code=en-GB
+language=English
+
+xable.market.sellbarrel.name=Selling Barrel
+xable.market.sellbarrel.description=A barrel to put something on and poof, it disappears and petals appear in your hand! Magic!
+
+xable.market.sellcase.name=Selling Case
+xable.market.sellcase.description=A wooden case to put something on and poof, it disappears and petals appear in your hand! Magic!
+
+xable.market.SellStall.name=Selling Stall
+xable.market.SellStall.description=Stock this market stall with your goods for sale, and by morning, everything will be sold!
+
+xable.market.ShippingStation.name=Shipping Station
+xable.market.ShippingStation.description=Two pallets, one for selling and one for receiving deliveries. Who needs fancy boxes or stalls when pallets do just fine?

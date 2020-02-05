@@ -1,0 +1,42 @@
+{
+    "code": "xable.market.sellcase",
+    "attachmentDirections": [],
+    "damageSoundGroup": "staxel.sounds.damage.Wood",
+    "totemCeiling": false,
+    "hammerable": {"strength": 1},
+    "orientationVariants": true,
+    "unbreakable": false,
+    "categories": [
+        "surface",
+        "furniture",
+        "market"
+    ],
+    "voxels": "mods/Xable's Market/selling/SellCase.qb",
+    "bouncyness": 0.1,
+    "placeSoundGroup": "staxel.sounds.place.Wood",
+    "solid": false,
+    "kind": "object",
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "priority": 32,
+    "compound": {"size": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+    }},
+    "searchable": true,
+    "placementDirections": ["yn"],
+    "collision": true,
+    "dockDefinition": "xable.market.sellcase.dock",
+    "interactActionTrigger": "staxel.entityAction.TriggerSellBox",
+    "wallPushOut": true,
+    "randomizePosition": false,
+    "spawnOnBreak": {"selfDropChance": 1},
+    "tileStateKind": "staxel.tileState.MerchantSellBox",
+    "open": false,
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 300,
+        "value": 2500
+    }
+}

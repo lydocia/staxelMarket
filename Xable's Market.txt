@@ -1,0 +1,14 @@
+[b]Description[/b]
+
+An overhaul for the selling, ordering and shipping mechanics.
+
+[b]Selling[/b]
+- Two pallets that replace the shipping station
+- A market stall and a pallet that replace the shipping station
+- A crate that replaces the selling box
+- A table-top case that replaces the selling box
+
+Read the full documentation [url=https://www.lydocia.com/mods/staxel-mods/xables-market/]here[/url]. 
+
+[b]Links[/b]
+[url=https://www.lydocia.com]website[/url] | [url=https://discord.gg/YPhAFKN]Discord[/url] | [url=https://www.patreon.com/lydocia]Patreon[/url]

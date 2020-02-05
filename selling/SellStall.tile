@@ -1,0 +1,30 @@
+{
+    "__inherits": "mods/Xable's Market/selling/SellStall.config",
+    "code": "xable.market.SellStall",
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "categories": [
+        "container",
+        "storage",
+        "basic",
+        "furniture",
+        "crate",
+        "brown",
+        "shipping"
+    ],
+    "compound": {
+        "size": {
+            "x": 4,
+            "y": 2,
+            "z": 2
+        },
+        "specification": "EEEE EEEE CXCC CCCC"
+    },
+    "voxels": "mods/Xable's Market/selling/SellStall.qb",
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 1500,
+        "value": 2500
+    },
+    "searchable": true
+}
